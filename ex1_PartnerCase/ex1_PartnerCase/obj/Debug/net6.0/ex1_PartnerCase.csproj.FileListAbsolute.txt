@@ -1,0 +1,15 @@
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\bin\Debug\net6.0\ex1_PartnerCase.exe
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\bin\Debug\net6.0\ex1_PartnerCase.deps.json
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\bin\Debug\net6.0\ex1_PartnerCase.runtimeconfig.json
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\bin\Debug\net6.0\ex1_PartnerCase.dll
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\bin\Debug\net6.0\ex1_PartnerCase.pdb
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ex1_PartnerCase.csproj.AssemblyReference.cache
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ex1_PartnerCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ex1_PartnerCase.AssemblyInfoInputs.cache
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ex1_PartnerCase.AssemblyInfo.cs
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ex1_PartnerCase.csproj.CoreCompileInputs.cache
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ex1_PartnerCase.dll
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\refint\ex1_PartnerCase.dll
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ex1_PartnerCase.pdb
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ex1_PartnerCase.genruntimeconfig.cache
+D:\YUHAN\PSA_prev\ex1_PartnerCase\ex1_PartnerCase\obj\Debug\net6.0\ref\ex1_PartnerCase.dll
