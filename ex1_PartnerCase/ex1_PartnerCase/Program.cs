@@ -42,7 +42,7 @@ void ex1()
 
         int ret = 0;
 
-        for (int pairWith = firstFree + 1; pairWith < n; ++pairWith)
+        for (int pairWith = firstFree+1; pairWith < n; ++pairWith)
         {
             if (!taken[pairWith] && areFriends[firstFree, pairWith])
             {
@@ -57,7 +57,7 @@ void ex1()
     }
 
     Console.WriteLine("가능한 짝의 조합 수 : "+countPairings(taken));
-    Console.WriteLine("=====================");
+    Console.WriteLine("=============================");
     Console.WriteLine("\n");
 }
 
