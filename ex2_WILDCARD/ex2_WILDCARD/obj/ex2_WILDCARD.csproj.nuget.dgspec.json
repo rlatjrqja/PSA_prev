@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyFiles\\yuhan\\PSA\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\ex2_WILDCARD.csproj": {}
+    "D:\\YUHAN\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\ex2_WILDCARD.csproj": {}
   },
   "projects": {
-    "C:\\MyFiles\\yuhan\\PSA\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\ex2_WILDCARD.csproj": {
+    "D:\\YUHAN\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\ex2_WILDCARD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyFiles\\yuhan\\PSA\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\ex2_WILDCARD.csproj",
+        "projectUniqueName": "D:\\YUHAN\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\ex2_WILDCARD.csproj",
         "projectName": "ex2_WILDCARD",
-        "projectPath": "C:\\MyFiles\\yuhan\\PSA\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\ex2_WILDCARD.csproj",
-        "packagesPath": "C:\\Users\\김석범\\.nuget\\packages\\",
-        "outputPath": "C:\\MyFiles\\yuhan\\PSA\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\obj\\",
+        "projectPath": "D:\\YUHAN\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\ex2_WILDCARD.csproj",
+        "packagesPath": "C:\\Users\\rlatj\\.nuget\\packages\\",
+        "outputPath": "D:\\YUHAN\\PSA_prev\\ex2_WILDCARD\\ex2_WILDCARD\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\김석범\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rlatj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
