@@ -20,13 +20,13 @@ for (int i = 0; i < pi.Length; i++)
     Console.WriteLine(ret);
 }
 
-int diff1(string pii,int j,int len)
+int diff0(string pii,int j,int len)
 {
     if (pii[j] == pii[j+1] && len<5)
     {
-        //used = j+1;
+        len++;
 
-        if (diff1(pii,j+1,len+1)==1)
+        if (diff0(pii, j + 1, len + 1) == 1)
         {
             return 1;
         }
@@ -35,6 +35,34 @@ int diff1(string pii,int j,int len)
     {
         return 1;
     }
+
+    return 0;
+}
+
+int diff1(char a,char b)
+{
+    if(a==b) return 1;
+
+    return 0;
+}
+
+int diff2(char a,char b)
+{
+    if(a+1 == b || a-1==b) return 2;
+
+    return 0;
+}
+
+int diff4(char a, char b)
+{
+    if (a == b) return 4;
+
+    return 0;
+}
+
+int diff5(char a, char b,int margin)
+{
+    if(a+margin == b || a-margin==b) return 5;
 
     return 0;
 }
