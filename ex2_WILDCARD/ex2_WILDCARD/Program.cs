@@ -10,32 +10,52 @@ for (int i = 0; i < num; i++)
 {
     textGroup[i] = Console.ReadLine();
 }
+Console.Write("\n");
 
-//int index = 0;
-for(int i=0;i< textGroup.Length;i++)
+for (int i=0;i< textGroup.Length;i++)
 {
-    match(textGroup[i],0);
+    Console.WriteLine(match(textGroup[i],wild,0));
 }
 
-string match(string text,int index)
+string match(string text,string wild, int index)
 {
     string ret = "";
-    char c = text[index];
+    char w;
 
-    for(int i=0;i<wild.Length;i++)
+    for (int i=index;i<wild.Length;i++)
     {
-        if (c == '*' || c == '?')
+        w = wild[index];
+
+        if (w == '?')
         {
-            match(text, ++index);
+            ret = ret + text[i] + match(text, wild, ++i);
         }
-        else if (c == wild[i])
+        else if (w == '*')
         {
+            while (wild[index + 1] != text[i])
+            {
+                ret += text[i];
+                i++;
+                if (i == text.Length)
+                {
+                    break;
+                }
+            }
+            ret += text[i];
             index++;
-            ret += c;
         }
-        else break;
+        else if (index < text.Length && w == text[i])
+        {
+            ret += text[i];
+        }
+        else
+        {
+            ret = "";
+            break;
+        }
+
+        index++;
     }
-    Console.WriteLine(c);
 
     return ret;
 }
