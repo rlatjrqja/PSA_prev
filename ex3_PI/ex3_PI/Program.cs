@@ -13,8 +13,10 @@ for (int i = 0; i < pi.Length; i++)
     {
         //diff1(pi[i][j], pi[i][j+1]);
 
-        ret += diff1(pi[i],j,1);
+        //ret += diff0(pi[i],j,1);
         //j = used;
+
+
     }
 
     Console.WriteLine(ret);
