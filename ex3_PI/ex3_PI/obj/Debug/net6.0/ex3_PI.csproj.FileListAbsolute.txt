@@ -1,0 +1,15 @@
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\bin\Debug\net6.0\ex3_PI.exe
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\bin\Debug\net6.0\ex3_PI.deps.json
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\bin\Debug\net6.0\ex3_PI.runtimeconfig.json
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\bin\Debug\net6.0\ex3_PI.dll
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\bin\Debug\net6.0\ex3_PI.pdb
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ex3_PI.csproj.AssemblyReference.cache
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ex3_PI.GeneratedMSBuildEditorConfig.editorconfig
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ex3_PI.AssemblyInfoInputs.cache
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ex3_PI.AssemblyInfo.cs
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ex3_PI.csproj.CoreCompileInputs.cache
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ex3_PI.dll
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\refint\ex3_PI.dll
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ex3_PI.pdb
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ex3_PI.genruntimeconfig.cache
+D:\YUHAN\PSA_prev\ex3_PI\ex3_PI\obj\Debug\net6.0\ref\ex3_PI.dll
