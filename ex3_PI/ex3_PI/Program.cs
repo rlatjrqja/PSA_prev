@@ -2,12 +2,12 @@
 
 string[] pi = { "11111222" };
 //string[] test = { "12341234", "11111222", "12122222", "22222222", "12673939" };
-int used = 0;
+//int used = 0;
 
 for (int i = 0; i < pi.Length; i++)
 {
     int ret = 0;
-    //bool[] used = new bool[pi[i].Length];
+    bool[] used = new bool[pi[i].Length];
 
     for (int j = 0; j < pi[i].Length - 2; j++)
     {
@@ -15,6 +15,7 @@ for (int i = 0; i < pi.Length; i++)
 
         //ret += diff0(pi[i],j,1);
         //j = used;
+
 
 
     }
